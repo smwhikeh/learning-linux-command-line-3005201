@@ -1,0 +1,18 @@
+departments
+dupes.txt
+filelist.txt
+filelist2.txt
+filelist3.txt
+filelist4.txt
+filelist5.txt
+log.tar.gz
+new.txt
+new2.txt
+newfile
+newfolder
+poems.txt
+simple_data.txt
+test.sh
+words.txt
+writing.txt
+some appended text
